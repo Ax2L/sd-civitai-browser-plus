@@ -1,4 +1,4 @@
-<h1 align="center">I have unfortunately stopped developing this extension</h1>
+<h1 align="center"> UPDATED VERSION! WORKING! WAN2.2 etc.... </h1>
 
 ** I took over the maintanance of this Project if someone is looking for a working version! ** 
 
