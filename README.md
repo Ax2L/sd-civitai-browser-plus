@@ -1,6 +1,6 @@
 <h1 align="center">I have unfortunately stopped developing this extension</h1>
 
-**This project has been archived as I'm no longer actively maintaining it. There are several reasons for this decision:**
+** I took over the maintanance of this Project if someone is looking for a working version! ** 
 
 1. The extension breaks frequently due to changes in the CivitAI API and SD-WebUI
 2. I no longer use SD-WebUI myself (which was my original motivation for creating this)
